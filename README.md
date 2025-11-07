@@ -1,7 +1,7 @@
 QUICK INSTRUCTIONS — ONE-CLICK INSTALLER
 
 This installer is available on GitHub:
-https://github.com/SilvaCleverson/bootcampSui
+https://github.com/JJuniordev18/bootcampSui
 
 INSTALLATION STEPS:
 
